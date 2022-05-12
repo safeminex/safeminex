@@ -1,0 +1,2 @@
+# safeminex
+SafeMIneX (SMX)
