@@ -1,0 +1,4 @@
+addnode=dnsseed.safeminecoin.xyz
+addnode=192.99.252.243:42022
+addnode=135.125.225.55:42022
+addnode=51.195.249.132:42022
