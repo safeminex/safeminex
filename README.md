@@ -3,9 +3,13 @@ SafeMineX Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/safeminecoin/safeminex.svg?branch=master)](https://travis-ci.org/safeminecoin/safeminex)
 
-https://safeminecoin.xyz
+Website [https://www.safeminecoin.xyz](https://www.safeminecoin.xyz) 
 
-What is SafeMineX?
+Block Explorer [explorer.safeminecoin.xyz](https://explorer.safeminecoin.xyz)
+
+Community [Discord] [chat.safeminecoin.xyz](https://discord.gg/97UjGWGbss) 
+
+What is SafeMineX
 ----------------
 
 SafeMineX is an experimental digital currency that enables instant payments to
