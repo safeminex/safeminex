@@ -17,6 +17,25 @@ software which enables the use of this currency.
 For more information, as well as an immediately useable, binary version of
 the SafeMineX Core software, see [https://safeminecoin.xyz](https://safeminecoin.xyz).
 
+
+## Coin specifications
+&nbsp; | &nbsp;
+------ | ------
+**Coin name** | SafeMineX / SafeMineCoin X
+**Coin Ticker** | SMX
+**Total number of coins** | 100 000 000 SMX
+**Initial block reward** | 100 SMX
+**Block halving** | every 500 000 blocks
+**Algorithm** | YescryptR16 (PoW / CPU only)
+**RPC Port** | 42122
+**P2P Port** | 42022
+**Public address** | S
+**Testnet address** | T
+**Average block time** | 1 minute
+**Difficulty retarget** | Every block
+**Premine** | none
+
+
 License
 -------
 
