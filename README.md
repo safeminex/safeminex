@@ -7,7 +7,9 @@ Website [https://www.safeminecoin.xyz](https://www.safeminecoin.xyz)
 
 Block Explorer [explorer.safeminecoin.xyz](https://explorer.safeminecoin.xyz)
 
-Community [Discord] [chat.safeminecoin.xyz](https://discord.gg/97UjGWGbss) 
+Community [Discord] [chat.safeminecoin.xyz](https://discord.gg/97UjGWGbss)
+
+MiningPool [MiningPoolStat.Stream] [https://miningpoolstats.stream](https://miningpoolstats.stream/safeminex)
 
 What is SafeMineX
 ----------------
