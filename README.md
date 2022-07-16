@@ -5,11 +5,13 @@ SafeMineX Core integration/staging tree
 
 Website [https://www.safeminecoin.xyz](https://www.safeminecoin.xyz) 
 
-Block Explorer [explorer.safeminecoin.xyz](https://explorer.safeminecoin.xyz)
+Block Explorer [https://explorer.safeminecoin.xyz](https://explorer.safeminecoin.xyz)
 
-Community [Discord] [chat.safeminecoin.xyz](https://discord.gg/97UjGWGbss)
+Community [Discord] [https://chat.safeminecoin.xyz](https://discord.gg/97UjGWGbss)
 
-MiningPool [MiningPoolStat.Stream] [https://miningpoolstats.stream](https://miningpoolstats.stream/safeminex)
+MiningPool [https://miningpoolstats.stream](https://miningpoolstats.stream/safeminex)
+
+Exchange [https://cratex.io](https://cratex.io/index.php?pair=SMX/DOGE)
 
 What is SafeMineX
 ----------------
