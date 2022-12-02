@@ -1,13 +1,13 @@
 SafeMineX Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/safeminecoin/safeminex.svg?branch=master)](https://travis-ci.org/safeminecoin/safeminex)
+[![Build Status](https://travis-ci.org/safeminex/safeminex.svg?branch=master)](https://travis-ci.org/safeminex/safeminex)
 
-Website [https://www.safeminecoin.xyz](https://www.safeminecoin.xyz) 
+Website [https://www.safeminex.org](https://www.safeminex.org) 
 
-Block Explorer [https://explorer.safeminecoin.xyz](https://explorer.safeminecoin.xyz)
+Block Explorer [https://explorer.safeminex.org](https://explorer.safeminex.org)
 
-Community [Discord] [https://chat.safeminecoin.xyz](https://discord.gg/97UjGWGbss)
+Community [Discord] [https://chat.safeminex.org](https://discord.gg/97UjGWGbss)
 
 MiningPool [https://miningpoolstats.stream](https://miningpoolstats.stream/safeminex)
 
@@ -23,7 +23,7 @@ out collectively by the network. SafeMineX Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the SafeMineX Core software, see [https://safeminecoin.xyz](https://safeminecoin.xyz).
+the SafeMineX Core software, see [https://www.safeminex.org](https://www.safeminex.org).
 
 
 ## Coin specifications
@@ -54,12 +54,12 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/safeminex-project/safeminex/tags) are created
+completely stable. [Tags](https://github.com/safeminex/safeminex/tags) are created
 regularly to indicate new official, stable release versions of SafeMineX Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The developer [mailing list](https://groups.google.com/forum/#!forum/safeminex-dev)
+The developer [mailing list](https://groups.google.com/forum/#!forum/safeminex)
 should be used to discuss complicated or controversial changes before working
 on a patch set.
 
