@@ -124,10 +124,13 @@ public:
         assert(consensus.hashGenesisBlock == uint256S("0xa5de2882f46d3f67da122eede2cba76ebb0b39fdef96fe6e1e45efd3c47e53ed"));
         assert(genesis.hashMerkleRoot == uint256S("0xdf99203df0f798091f888094498ed75198b0f4e8a8af4aad3979059a55201f06"));
 
-        vSeeds.push_back(CDNSSeedData("dnsseed.safeminecoin.xyz", "dnsseed.safeminecoin.xyz"));
-        vSeeds.push_back(CDNSSeedData("192.99.252.243", "192.99.252.243"));
-        vSeeds.push_back(CDNSSeedData("51.195.249.132", "51.77.48.45"));
-
+        vSeeds.push_back(CDNSSeedData("dnsseed.safeminex.org", "vps.safeminex.org"));
+        vSeeds.push_back(CDNSSeedData("dnsseed02.safeminex.org", "dnsseed02.safeminex.org"));
+        vSeeds.push_back(CDNSSeedData("dnsseed03.safeminex.org", "dnsseed03.safeminex.org"));
+        vSeeds.push_back(CDNSSeedData("dnsseed04.safeminex.org", "dnsseed04.safeminex.org")); 
+        vSeeds.push_back(CDNSSeedData("dnsseed05.safeminex.org", "dnsseed05.safeminex.org"));
+        vSeeds.push_back(CDNSSeedData("dnsseed06.safeminex.org", "dnsseed06.safeminex.org"));
+       
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,63);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,75);
         base58Prefixes[SCRIPT_ADDRESS2] = std::vector<unsigned char>(1,75);
