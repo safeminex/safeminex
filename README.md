@@ -34,7 +34,7 @@ the SafeMineX Core software, see [https://www.safeminex.org](https://www.safemin
 **Total number of coins** | 100 000 000 SMX
 **Initial block reward** | 100 SMX
 **Block halving** | every 500 000 blocks
-**Algorithm** | YescryptR16 (PoW / CPU only)
+**Algorithm** | YescryptR16 (PoW / GPU & CPU)
 **RPC Port** | 42122
 **P2P Port** | 42022
 **Public address** | S
