@@ -13,6 +13,16 @@ MiningPool [https://miningpoolstats.stream](https://miningpoolstats.stream/safem
 
 Exchange [https://cratex.io](https://cratex.io/index.php?pair=SMX/DOGE)
 
+Addnode List : 
+* addnode=dnsseed.safeminex.org
+* addnode=dnsseed02.safeminex.org
+* addnode=dnsseed03.safeminex.org
+* addnode=dnsseed04.safeminex.org
+* addnode=dnsseed05.safeminex.org
+* addnode=dnsseed06.safeminex.org
+
+Update [bootstrap](https://mega.nz/file/eJYySB6B#G7CRt11YVZZHFMIgWo75sJ1ZxxMS-9ybNv7tRpdKW34)
+
 What is SafeMineX
 ----------------
 
