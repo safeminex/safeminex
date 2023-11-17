@@ -125,6 +125,7 @@ public:
         assert(genesis.hashMerkleRoot == uint256S("0xdf99203df0f798091f888094498ed75198b0f4e8a8af4aad3979059a55201f06"));
 
         vSeeds.push_back(CDNSSeedData("dnsseed.safeminex.org", "vps.safeminex.org"));
+        vSeeds.push_back(CDNSSeedData("dnsseed01.safeminex.org", "dnsseed01.safeminex.org"));
         vSeeds.push_back(CDNSSeedData("dnsseed02.safeminex.org", "dnsseed02.safeminex.org"));
         vSeeds.push_back(CDNSSeedData("dnsseed03.safeminex.org", "dnsseed03.safeminex.org"));
         vSeeds.push_back(CDNSSeedData("dnsseed04.safeminex.org", "dnsseed04.safeminex.org")); 
